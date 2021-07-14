@@ -1,0 +1,24 @@
+{
+  "name": "vaccine-exercise-2021",
+  "version": "1.0.0",
+  "description": "THL has ordered us to create a vaccination database which contains information about vaccine orders and vaccinations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Putila/vaccine-exercise-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Putila/vaccine-exercise-2021/issues"
+  },
+  "homepage": "https://github.com/Putila/vaccine-exercise-2021#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
