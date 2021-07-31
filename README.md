@@ -1,5 +1,18 @@
 # vaccination-exercise
 
+
+To run app
+
+Run express server 
+    Open terminal
+    Run <npm start> in root. 
+    Starts server with Nodemon
+
+Run react app
+    Open terminal
+    Run <npm start> in /client
+
+
 THL has ordered us to create a vaccination database which contains information about vaccine orders and vaccinations.
 
 We have received files which contains the base data for the application
