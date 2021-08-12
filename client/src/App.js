@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./snaids.png";
 import "./App.css";
 import ReactJson from 'react-json-view'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 
 
